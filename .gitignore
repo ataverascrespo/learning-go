@@ -1,0 +1,5 @@
+# Ignore all files in the .obsidian directory and its subdirectories
+.obsidian/
+
+# Ignore all files in the notes/.obsidian directory and its subdirectories
+notes/.obsidian/
